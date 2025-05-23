@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-adglobe-dev-1dcf9-authRole",
+      "UnauthRoleArn": "arn:aws:iam::954976313636:role/amplify-adglobe-dev-1dcf9-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::954976313636:role/amplify-adglobe-dev-1dcf9-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-adglobe-dev-1dcf9-deployment",
+      "UnauthRoleName": "amplify-adglobe-dev-1dcf9-unauthRole",
+      "StackName": "amplify-adglobe-dev-1dcf9",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:954976313636:stack/amplify-adglobe-dev-1dcf9/b64bcce0-37b3-11f0-b486-0e7e40993937",
+      "AmplifyAppId": "d3c3gstuljy8a6"
+    },
+    "categories": {
+      "auth": {
+        "adglobe8a5c2d96": {}
+      },
+      "api": {
+        "adglobe": {}
+      }
+    }
+  }
+}
